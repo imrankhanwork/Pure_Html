@@ -1,0 +1,22 @@
+
+/* font family: able*/
+@font-face {
+    font-family: abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+
+/* font family: anton*/
+@font-face {
+    font-family: anton;
+    src: url('../fonts/Anton/Anton-Regular.ttf');
+}
+/* font family: josefinSans*/
+@font-face {
+    font-family: josefinSans;
+    src: url('../fonts/Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf');
+}
+/* font family: livvic*/
+@font-face {
+    font-family: livvic;
+    src: url('../fonts/Livvic/Livvic-Regular.ttf');
+}
